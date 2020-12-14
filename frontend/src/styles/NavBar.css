@@ -1,0 +1,11 @@
+.nav-bar {
+    height: 10vh;
+}
+
+.user-menu-item {
+    margin: 20px;
+}
+
+.search-bar {
+    width: 35vw !important;
+}

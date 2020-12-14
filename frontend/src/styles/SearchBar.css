@@ -1,0 +1,4 @@
+/* set width for search bar */
+input[type="text"] {
+    width: 300px;
+}

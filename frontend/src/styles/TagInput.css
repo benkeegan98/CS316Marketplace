@@ -1,0 +1,37 @@
+/* Example Styles for React Tags*/
+div.ReactTags__tags {
+    position: relative;
+}
+
+/* Styles for the input */
+div.ReactTags__tagInput {
+    display: inline-block;
+    width: 225px;
+}
+div.ReactTags__tagInput input.ReactTags__tagInputField,
+div.ReactTags__tagInput input.ReactTags__tagInputField:focus {
+    margin: 0;
+    width: 225px;
+    border: 1px solid #eee;
+}
+
+div.ReactTags__selected {
+    display: flex;
+}
+
+/* Styles for selected tags */
+div.ReactTags__selected span.ReactTags__tag {
+    border: 1px solid #ddd;
+    background: #eee;
+    font-size: 14px;
+    display: inline-block;
+    padding: 7px 5px;
+    margin: 0 5px;
+    border-radius: 2px;
+    text-align: center;;
+}
+div.ReactTags__selected a.ReactTags__remove {
+    color: #aaa;
+    margin-left: 5px;
+    cursor: pointer;
+}

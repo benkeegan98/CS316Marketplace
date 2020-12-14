@@ -1,0 +1,54 @@
+.login {
+    padding-top: 10vh;
+    width: 400px !important;
+}
+
+.login .segment {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.sign-up {
+    padding-top: 10vh;
+    width: 700px !important;
+}
+.sign-up .segment {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.login > .container,
+.sign-up > .container
+.start > .container
+.edit-profile > .container {
+    padding: 1rem;
+}
+
+.login-header, .sign-up-header, .start-header, .edit-profile-header {
+    padding: 1rem;
+    font-size: 1.2rem;
+    color: black !important;
+    padding: 5px 0 !important;
+}
+
+.make-account-button {
+    font-size: 1rem;
+    margin-top: 5px;
+    color: blue;
+}
+
+.start {
+    padding-top: 10vh;
+    width: 700px !important;
+}
+
+.start-button {
+    font-size: 1rem;
+    margin-top: 5px;
+    /* color: white; */
+    fill: blue;
+}
+
+.sign-up-box {
+    border-color: white;
+}

@@ -1,0 +1,70 @@
+.create-listing-form-container {
+    padding: 1rem;
+}
+
+.create-listing-grid {
+    padding: 14px 0 !important;
+}
+
+.checkbox-grid {
+    padding: 5px 14px !important;
+}
+
+.create-listing-category-dropdown-label {
+    display: block;
+    margin: 0 0 .28571429rem 0;
+    color: rgba(0,0,0,.87);
+    font-size: .92857143em;
+    font-weight: 700;
+    text-transform: none;
+}
+
+.tags-container {
+    padding: 0 14px !important;
+}
+
+.item-box-container {
+    padding: 5px;
+    margin: 5px !important;
+    cursor: pointer;
+    max-height: 170px !important;
+    min-height: 170px !important;
+}
+
+.item-box-image {
+    max-height: 90% !important;
+    height: 90% !important;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.item-card-container {
+    padding: 5px;
+    margin: 5px !important;
+    cursor: pointer;
+}
+
+.item-card-image > img {
+    border-radius: 5px;
+    max-height: 150px !important;
+    min-height: 150px !important;
+
+}
+
+.item-card-name {
+    color: rgba(0,0,0,.87);
+}
+
+.item-card-content {
+    max-height: 60px !important;
+    min-height: 60px !important;
+}
+
+.ui.image img, .ui.image svg {
+    display: block;
+    max-width: 100%;
+    max-height: 150px !important;
+}
+
+
+

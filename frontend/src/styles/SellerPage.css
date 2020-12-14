@@ -1,0 +1,4 @@
+.reviews-rating-star > div {
+    position: absolute;
+    top: 50%;
+}
